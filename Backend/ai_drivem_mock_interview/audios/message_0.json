@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "D:\\AI_Driven_Mock_Interview\\Backend\\ai_drivem_mock_interview\\audios\\message_0.wav",
+    "duration": 3.23
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "X" },
+    { "start": 0.13, "end": 0.18, "value": "B" },
+    { "start": 0.18, "end": 0.22, "value": "C" },
+    { "start": 0.22, "end": 0.36, "value": "B" },
+    { "start": 0.36, "end": 0.50, "value": "G" },
+    { "start": 0.50, "end": 0.64, "value": "H" },
+    { "start": 0.64, "end": 0.78, "value": "C" },
+    { "start": 0.78, "end": 0.85, "value": "E" },
+    { "start": 0.85, "end": 0.99, "value": "B" },
+    { "start": 0.99, "end": 1.15, "value": "A" },
+    { "start": 1.15, "end": 2.56, "value": "B" },
+    { "start": 2.56, "end": 2.63, "value": "C" },
+    { "start": 2.63, "end": 2.71, "value": "A" },
+    { "start": 2.71, "end": 3.01, "value": "F" },
+    { "start": 3.01, "end": 3.08, "value": "G" },
+    { "start": 3.08, "end": 3.22, "value": "C" },
+    { "start": 3.22, "end": 3.23, "value": "X" }
+  ]
+}
